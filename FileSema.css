@@ -1,0 +1,13 @@
+﻿
+.fs-container {
+    margin-top: 10px;
+}
+
+.fs-label a {
+    cursor: pointer;
+    color: red;
+}
+    .fs-label a span {
+        top: 2px;
+        margin-right: 8px;
+    }
